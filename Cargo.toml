@@ -1,0 +1,17 @@
+[package]
+name = "catalan-pcf-miner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10"
+indicatif = "0.17"
+dashu = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+# Note: target-cpu = "native" is configured in .cargo/config.toml (rustflags = ["-C", "target-cpu=native"])
+# to ensure AVX2 code generation without Cargo manifest warnings.

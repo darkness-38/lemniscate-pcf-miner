@@ -1,0 +1,824 @@
+[BULDUM!]
+Hedef     : 2/(1*ϖ + 2) [Möbius Inverse ϖ]
+a_n       : 6n
+b_n       : -2 * n * (4n - 5)
+Değer     : 0.4327077230232164915105...
+Hata Payı : 4.0e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (3*ϖ + 6) / (1*ϖ + 4) [ϖ Möbius]
+a_n       : 4n - 3
+b_n       : -n * (2n - 5)
+Değer     : 2.0939372014199620006791...
+Hata Payı : 5.2e-82
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -2/(1*(pi/ϖ) + 2) [Möbius Inverse (pi/ϖ)]
+a_n       : 6n
+b_n       : -2 * n * (4n - 3)
+Değer     : -0.625363446629897693798...
+Hata Payı : 9.7e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 2) / (1*(pi/ϖ) - 4) [(pi/ϖ) Möbius]
+a_n       : 6n
+b_n       : -(2n - 3) * (4n - 1)
+Değer     : 0.5690579963970156991971...
+Hata Payı : 1.1e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*(pi/ϖ) - 1 [Linear (pi/ϖ)]
+a_n       : 6n
+b_n       : -(2n - 1) * (4n - 5)
+Değer     : 0.1981402347355922074399...
+Hata Payı : 7.6e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n
+b_n       : -(2n - 1) * (4n - 3)
+Değer     : -0.237240236498186811937...
+Hata Payı : 4.8e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 2/(1*ϖ + 2) [Möbius Inverse ϖ]
+a_n       : 6n
+b_n       : -2n * (4n - 5)
+Değer     : 0.4327077230232164915105...
+Hata Payı : 4.0e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -2/(1*(pi/ϖ) + 2) [Möbius Inverse (pi/ϖ)]
+a_n       : 6n
+b_n       : -2n * (4n - 3)
+Değer     : -0.625363446629897693798...
+Hata Payı : 9.7e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (3*(pi/ϖ) + 2) / (3*(pi/ϖ) + 4) [(pi/ϖ) Möbius]
+a_n       : 6n
+b_n       : -(2n + 1) * (4n - 5)
+Değer     : 0.7366487744230260748152...
+Hata Payı : 2.9e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*(pi/ϖ)) / (1*(pi/ϖ) + 2) [(pi/ϖ) Möbius]
+a_n       : 4n - 1
+b_n       : -n * (2n - 3)
+Değer     : 0.3746365533701023062013...
+Hata Payı : 3.4e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (6*(pi/ϖ) + 6) / (3*(pi/ϖ) + 4) [(pi/ϖ) Möbius]
+a_n       : 4n - 1
+b_n       : -(n + 1) * (2n - 5)
+Değer     : 1.7366487744230260748152...
+Hata Payı : 1.8e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 6) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -2 * n * (4n - 5)
+Değer     : 0.2882792905054395641869...
+Hata Payı : 1.2e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -2 * n * (4n - 3)
+Değer     : -0.330746316651853627437...
+Hata Payı : 7.5e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -2 * n * (4n - 1)
+Değer     : -1.237240236498186811937...
+Hata Payı : 1.9e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) - 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -2 * n * (4n + 1)
+Değer     : -3.669253683348146372562...
+Hata Payı : 1.0e-41
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ + 4) / (2*ϖ + 5) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -2 * (n + 1) * (4n - 5)
+Değer     : 0.6464255315466972984890...
+Hata Payı : 1.2e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 4n + 1
+b_n       : -n * (2n - 1)
+Değer     : -0.237240236498186811937...
+Hata Payı : 1.1e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 2/(1*ϖ + 2) [Möbius Inverse ϖ]
+a_n       : 4n + 1
+b_n       : -(n + 1) * (2n - 3)
+Değer     : 0.4327077230232164915105...
+Hata Payı : 3.5e-82
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*(pi/ϖ) - 4) / (2*(pi/ϖ) + 3) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -2 * (n + 1) * (4n - 3)
+Değer     : -0.963282072557839229634...
+Hata Payı : 5.1e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 4) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 4n + 3
+b_n       : -n * (2n + 1)
+Değer     : -0.505798287135015895327...
+Hata Payı : 5.4e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 5) / (1*ϖ - 1) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -(2n - 1) * (4n - 3)
+Değer     : -0.150497192863648788552...
+Hata Payı : 1.1e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 4n + 3
+b_n       : -(n + 1) * (2n - 1)
+Değer     : -0.330746316651853627437...
+Hata Payı : 2.4e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 4) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -(2n - 1) * (4n - 1)
+Değer     : -0.505798287135015895327...
+Hata Payı : 1.3e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1/(1*(pi/ϖ) + 1) [Möbius Inverse (pi/ϖ)]
+a_n       : 4n + 3
+b_n       : -(n + 2) * (2n - 3)
+Değer     : 0.4549300286659313365640...
+Hata Payı : 3.6e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*(pi/ϖ) - 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n - 4
+b_n       : -(2n - 3) * (4n - 5)
+Değer     : -0.669253683348146372562...
+Hata Payı : 1.2e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 6) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -2n * (4n - 5)
+Değer     : 0.2882792905054395641869...
+Hata Payı : 1.2e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -2n * (4n - 3)
+Değer     : -0.330746316651853627437...
+Hata Payı : 7.5e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -2n * (4n - 1)
+Değer     : -1.237240236498186811937...
+Hata Payı : 1.9e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) - 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -2n * (4n + 1)
+Değer     : -3.669253683348146372562...
+Hata Payı : 1.0e-41
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 3 [Linear ϖ]
+a_n       : 4n + 5
+b_n       : -(n + 2) * (2n - 1)
+Değer     : -0.377942445707880189535...
+Hata Payı : 3.8e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (2*ϖ + 2) / (1*ϖ + 4) [ϖ Möbius]
+a_n       : 6n - 2
+b_n       : -2 * n * (4n - 5)
+Değer     : 1.0939372014199620006791...
+Hata Payı : 1.8e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1/(1*(pi/ϖ) + 1) [Möbius Inverse (pi/ϖ)]
+a_n       : 6n + 2
+b_n       : -(2n + 1) * (4n - 5)
+Değer     : 0.4549300286659313365640...
+Hata Payı : 3.7e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -(2n + 1) * (4n - 3)
+Değer     : -0.567292276976783508489...
+Hata Payı : 4.7e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ + 4) / (2*ϖ + 5) [ϖ Möbius]
+a_n       : 6n + 2
+b_n       : -(2n + 2) * (4n - 5)
+Değer     : 0.6464255315466972984890...
+Hata Payı : 1.2e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (2*(pi/ϖ) - 3) / (1*(pi/ϖ) + 1) [(pi/ϖ) Möbius]
+a_n       : 6n - 2
+b_n       : -(2n - 3) * (4n - 5)
+Değer     : -0.274650143329656682820...
+Hata Payı : 1.7e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*(pi/ϖ) - 4) / (2*(pi/ϖ) + 3) [(pi/ϖ) Möbius]
+a_n       : 6n + 2
+b_n       : -(2n + 2) * (4n - 3)
+Değer     : -0.963282072557839229634...
+Hata Payı : 5.1e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ) / (1*ϖ + 3) [ϖ Möbius]
+a_n       : 4n + 5
+b_n       : -(n + 3) * (2n - 3)
+Değer     : 0.4663875332066511200752...
+Hata Payı : 3.6e-82
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 4) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6n - 2
+b_n       : -(2n - 3) * (4n - 3)
+Değer     : 0.2981231690696494745316...
+Hata Payı : 4.5e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*(pi/ϖ)) / (1*(pi/ϖ) + 2) [(pi/ϖ) Möbius]
+a_n       : 6n - 2
+b_n       : -(2n - 1) * (4n - 5)
+Değer     : 0.3746365533701023062013...
+Hata Payı : 5.3e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (2*ϖ + 2) / (1*ϖ + 4) [ϖ Möbius]
+a_n       : 6n - 2
+b_n       : -2n * (4n - 5)
+Değer     : 1.0939372014199620006791...
+Hata Payı : 1.8e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-4*(pi/ϖ) + 6) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -2 * n * (4n + 1)
+Değer     : -1.505798287135015895327...
+Hata Payı : 2.5e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-4*ϖ - 2) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -2 * n * (4n + 3)
+Değer     : -2.701876830930350525468...
+Hata Payı : 2.7e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ) / (1*ϖ + 3) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -2 * (n + 1) * (4n - 5)
+Değer     : 0.4663875332066511200752...
+Hata Payı : 4.1e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*(pi/ϖ)) / (1*(pi/ϖ) + 1) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -2 * (n + 1) * (4n - 3)
+Değer     : -0.545069971334068663435...
+Hata Payı : 3.4e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*ϖ) / (1*ϖ + 1) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -2 * (n + 1) * (4n - 1)
+Değer     : -2.171741488081818238142...
+Hata Payı : 1.5e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 4n + 7
+b_n       : -(n + 3) * (2n - 1)
+Değer     : -0.405579295793223377680...
+Hata Payı : 5.2e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (3*(pi/ϖ)) / (3*(pi/ϖ) + 4) [(pi/ϖ) Möbius]
+a_n       : 4n + 7
+b_n       : -(n + 4) * (2n - 3)
+Değer     : 0.4732975488460521496304...
+Hata Payı : 3.6e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-4*(pi/ϖ) + 6) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -2n * (4n + 1)
+Değer     : -1.505798287135015895327...
+Hata Payı : 2.5e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-4*ϖ - 2) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -2n * (4n + 3)
+Değer     : -2.701876830930350525468...
+Hata Payı : 2.7e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 4) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -(2n + 1) * (4n - 5)
+Değer     : 0.3385073666962927451257...
+Hata Payı : 4.6e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 3 [Linear ϖ]
+a_n       : 6n + 4
+b_n       : -(2n + 1) * (4n - 3)
+Değer     : -0.377942445707880189535...
+Hata Payı : 1.0e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -(2n + 1) * (4n - 1)
+Değer     : -1.330746316651853627437...
+Hata Payı : 1.9e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ) / (1*ϖ + 3) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -(2n + 2) * (4n - 5)
+Değer     : 0.4663875332066511200752...
+Hata Payı : 4.1e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*(pi/ϖ)) / (1*(pi/ϖ) + 1) [(pi/ϖ) Möbius]
+a_n       : 6n + 4
+b_n       : -(2n + 2) * (4n - 3)
+Değer     : -0.545069971334068663435...
+Hata Payı : 3.4e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*ϖ) / (1*ϖ + 1) [ϖ Möbius]
+a_n       : 6n + 4
+b_n       : -(2n + 2) * (4n - 1)
+Değer     : -2.171741488081818238142...
+Hata Payı : 1.5e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 6n + 6
+b_n       : -2 * (n + 1) * (4n - 3)
+Değer     : -0.405579295793223377680...
+Hata Payı : 1.0e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 4 [Linear ϖ]
+a_n       : 6n + 6
+b_n       : -2 * (n + 1) * (4n - 1)
+Değer     : -1.377942445707880189535...
+Hata Payı : 2.1e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 6n + 6
+b_n       : -2 * (n + 1) * (4n + 1)
+Değer     : -2.801859765264407792560...
+Hata Payı : 2.5e-44
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 6n + 6
+b_n       : -(2n + 2) * (4n - 3)
+Değer     : -0.405579295793223377680...
+Hata Payı : 1.0e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 4 [Linear ϖ]
+a_n       : 6n + 6
+b_n       : -(2n + 2) * (4n - 1)
+Değer     : -1.377942445707880189535...
+Hata Payı : 2.1e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 6n + 6
+b_n       : -(2n + 2) * (4n + 1)
+Değer     : -2.801859765264407792560...
+Hata Payı : 2.5e-44
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (3*(pi/ϖ)) / (3*(pi/ϖ) + 4) [(pi/ϖ) Möbius]
+a_n       : 6n + 6
+b_n       : -(2n + 3) * (4n - 5)
+Değer     : 0.4732975488460521496304...
+Hata Payı : 5.3e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -3/(1*ϖ + 3) [Möbius Inverse ϖ]
+a_n       : 6n + 6
+b_n       : -(2n + 3) * (4n - 3)
+Değer     : -0.533612466793348879924...
+Hata Payı : 3.1e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -4/(3*(pi/ϖ) + 4) [Möbius Inverse (pi/ϖ)]
+a_n       : 6n + 8
+b_n       : -2 * (n + 2) * (4n - 3)
+Değer     : -0.526702451153947850369...
+Hata Payı : 3.4e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 5 [Linear (pi/ϖ)]
+a_n       : 6n + 8
+b_n       : -(2n + 3) * (4n - 1)
+Değer     : -1.405579295793223377680...
+Hata Payı : 2.7e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-5*ϖ + 6) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 8
+b_n       : -(2n + 3) * (4n + 1)
+Değer     : -2.711720709494560435813...
+Hata Payı : 2.2e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -4/(3*(pi/ϖ) + 4) [Möbius Inverse (pi/ϖ)]
+a_n       : 6n + 8
+b_n       : -(2n + 4) * (4n - 3)
+Değer     : -0.526702451153947850369...
+Hata Payı : 3.4e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*(pi/ϖ) + 4) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 10
+b_n       : -2 * (n + 2) * (4n + 1)
+Değer     : -2.661492633303707254874...
+Hata Payı : 2.3e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*ϖ + 4) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 10
+b_n       : -2 * (n + 2) * (4n + 3)
+Değer     : -4.474480472996373623875...
+Hata Payı : 1.9e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*(pi/ϖ) + 4) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6n + 10
+b_n       : -(2n + 4) * (4n + 1)
+Değer     : -2.661492633303707254874...
+Hata Payı : 2.3e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*ϖ + 4) / (1*ϖ) [ϖ Möbius]
+a_n       : 6n + 10
+b_n       : -(2n + 4) * (4n + 3)
+Değer     : -4.474480472996373623875...
+Hata Payı : 1.9e-43
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*ϖ) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6n + 12
+b_n       : -2 * (n + 3) * (4n - 1)
+Değer     : -1.701876830930350525468...
+Hata Payı : 6.3e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*(pi/ϖ)) / (1*(pi/ϖ) + 2) [(pi/ϖ) Möbius]
+a_n       : 4*n^2 + 3*n - 1
+b_n       : -n^2 * (n + 1) * (2n - 3)
+Değer     : 0.3746365533701023062013...
+Hata Payı : 3.4e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 4*n^2 + 5*n + 1
+b_n       : -n^2 * (n + 1) * (2n - 1)
+Değer     : -0.237240236498186811937...
+Hata Payı : 1.1e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 2/(1*ϖ + 2) [Möbius Inverse ϖ]
+a_n       : 4*n^2 + 5*n + 1
+b_n       : -n * (n + 1) * (n + 1) * (2n - 3)
+Değer     : 0.4327077230232164915105...
+Hata Payı : 3.5e-82
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (2*(pi/ϖ)) / (1*(pi/ϖ) + 2) [(pi/ϖ) Möbius]
+a_n       : 4*n^2 + 7*n - 2
+b_n       : -n * (n + 2) * (n + 1) * (2n - 3)
+Değer     : 0.7492731067402046124026...
+Hata Payı : 6.8e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 4) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 4*n^2 + 7*n + 3
+b_n       : -n^2 * (n + 1) * (2n + 1)
+Değer     : -0.505798287135015895327...
+Hata Payı : 5.4e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 4*n^2 + 7*n + 3
+b_n       : -n * (n + 1) * (n + 1) * (2n - 1)
+Değer     : -0.330746316651853627437...
+Hata Payı : 2.4e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1/(1*(pi/ϖ) + 1) [Möbius Inverse (pi/ϖ)]
+a_n       : 4*n^2 + 7*n + 3
+b_n       : -n * (n + 2) * (n + 1) * (2n - 3)
+Değer     : 0.4549300286659313365640...
+Hata Payı : 3.6e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 4) / (1*ϖ) [ϖ Möbius]
+a_n       : 4*n^2 + 9*n + 2
+b_n       : -n * (n + 2) * (n + 1) * (2n - 1)
+Değer     : -0.474480472996373623875...
+Hata Payı : 2.2e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (1*ϖ) / (1*ϖ + 3) [ϖ Möbius]
+a_n       : 4*n^2 + 9*n + 5
+b_n       : -n * (n + 1) * (n + 3) * (2n - 3)
+Değer     : 0.4663875332066511200752...
+Hata Payı : 3.6e-82
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 3 [Linear ϖ]
+a_n       : 4*n^2 + 9*n + 5
+b_n       : -n * (n + 2) * (n + 1) * (2n - 1)
+Değer     : -0.377942445707880189535...
+Hata Payı : 3.8e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (3*(pi/ϖ)) / (1*(pi/ϖ) + 2) [(pi/ϖ) Möbius]
+a_n       : 4*n^2 + 11*n - 3
+b_n       : -n * (n + 2) * (n + 3) * (2n - 3)
+Değer     : 1.1239096601103069186040...
+Hata Payı : 1.0e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 4 [Linear (pi/ϖ)]
+a_n       : 4*n^2 + 11*n + 7
+b_n       : -n * (n + 1) * (n + 3) * (2n - 1)
+Değer     : -0.405579295793223377680...
+Hata Payı : 5.2e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*ϖ + 6) / (1*ϖ) [ϖ Möbius]
+a_n       : 4*n^2 + 13*n + 3
+b_n       : -n * (n + 2) * (n + 3) * (2n - 1)
+Değer     : -0.711720709494560435813...
+Hata Payı : 3.3e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-4*ϖ + 4) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 4*n^2 + 13*n + 4
+b_n       : -n * (n + 1) * (n + 3) * (2n + 1)
+Değer     : -1.403753661860701050936...
+Hata Payı : 2.1e-81
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 4) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6*n^2 + 4*n - 2
+b_n       : -n * (n + 1) * (2n - 3) * (4n - 3)
+Değer     : 0.2981231690696494745316...
+Hata Payı : 4.5e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 2) / (1*(pi/ϖ) - 4) [(pi/ϖ) Möbius]
+a_n       : 6*n^2 + 6*n
+b_n       : -n * (n + 1) * (2n - 3) * (4n - 1)
+Değer     : 0.5690579963970156991971...
+Hata Payı : 1.1e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ + 2) / (1*ϖ) [ϖ Möbius]
+a_n       : 6*n^2 + 6*n
+b_n       : -n * (n + 1) * (2n - 1) * (4n - 3)
+Değer     : -0.237240236498186811937...
+Hata Payı : 4.8e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 3) / (2*ϖ + 1) [ϖ Möbius]
+a_n       : 6*n^2 + 8*n - 1
+b_n       : -n * (n + 2) * (2n - 1) * (4n - 3)
+Değer     : -0.359396819174440139025...
+Hata Payı : 2.6e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 5) / (1*ϖ - 1) [ϖ Möbius]
+a_n       : 6*n^2 + 8*n + 2
+b_n       : -n * (n + 1) * (2n - 1) * (4n - 3)
+Değer     : -0.150497192863648788552...
+Hata Payı : 1.1e-51
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 4) / (1*(pi/ϖ) - 2) [(pi/ϖ) Möbius]
+a_n       : 6*n^2 + 8*n + 2
+b_n       : -n * (n + 1) * (2n - 1) * (4n - 1)
+Değer     : -0.505798287135015895327...
+Hata Payı : 1.3e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-1*ϖ) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 6*n^2 + 8*n + 2
+b_n       : -n * (n + 1) * (2n + 1) * (4n - 3)
+Değer     : -0.567292276976783508489...
+Hata Payı : 4.7e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 5) / (1*(pi/ϖ) - 3) [(pi/ϖ) Möbius]
+a_n       : 6*n^2 + 10*n + 1
+b_n       : -n * (n + 2) * (2n - 1) * (4n - 1)
+Değer     : -0.780071414484892733556...
+Hata Payı : 8.5e-47
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 1*ϖ - 3 [Linear ϖ]
+a_n       : 6*n^2 + 10*n + 4
+b_n       : -n * (n + 1) * (2n + 1) * (4n - 3)
+Değer     : -0.377942445707880189535...
+Hata Payı : 1.0e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-3*(pi/ϖ) + 2) / (1*(pi/ϖ)) [(pi/ϖ) Möbius]
+a_n       : 6*n^2 + 10*n + 4
+b_n       : -n * (n + 1) * (2n + 1) * (4n - 1)
+Değer     : -1.330746316651853627437...
+Hata Payı : 1.9e-46
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*(pi/ϖ) + 1) / (2*(pi/ϖ) + 1) [(pi/ϖ) Möbius]
+a_n       : 6*n^2 + 12*n + 5
+b_n       : -n * (n + 2) * (2n + 1) * (4n - 1)
+Değer     : -1.822240967447892390368...
+Hata Payı : 7.3e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : -3/(1*ϖ + 3) [Möbius Inverse ϖ]
+a_n       : 6*n^2 + 12*n + 6
+b_n       : -n * (n + 1) * (2n + 3) * (4n - 3)
+Değer     : -0.533612466793348879924...
+Hata Payı : 3.1e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 3*(pi/ϖ) - 5 [Linear (pi/ϖ)]
+a_n       : 6*n^2 + 14*n + 8
+b_n       : -n * (n + 1) * (2n + 3) * (4n - 1)
+Değer     : -1.405579295793223377680...
+Hata Payı : 2.7e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-5*ϖ + 6) / (1*ϖ) [ϖ Möbius]
+a_n       : 6*n^2 + 14*n + 8
+b_n       : -n * (n + 1) * (2n + 3) * (4n + 1)
+Değer     : -2.711720709494560435813...
+Hata Payı : 2.2e-45
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-6*(pi/ϖ) + 4) / (1*(pi/ϖ) - 4) [(pi/ϖ) Möbius]
+a_n       : 12*n^2 + 12*n
+b_n       : -4 * n * (n + 1) * (2n - 3) * (4n - 1)
+Değer     : 1.1381159927940313983942...
+Hata Payı : 2.3e-50
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ + 4) / (1*ϖ) [ϖ Möbius]
+a_n       : 12*n^2 + 12*n
+b_n       : -4 * n * (n + 1) * (2n - 1) * (4n - 3)
+Değer     : -0.474480472996373623875...
+Hata Payı : 9.6e-48
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : (-2*ϖ) / (1*ϖ + 2) [ϖ Möbius]
+a_n       : 12*n^2 + 16*n + 4
+b_n       : -4 * n * (n + 1) * (2n + 1) * (4n - 3)
+Değer     : -1.134584553953567016978...
+Hata Payı : 9.4e-46
+Adım      : 150 iterasyon
+

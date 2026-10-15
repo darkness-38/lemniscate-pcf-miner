@@ -1,0 +1,32 @@
+[BULDUM!]
+Hedef     : 2/(2*G - 1) [Möbius Inverse]
+a_n       : 3*n^2 + 7*n + 3
+b_n       : -2 * n^3 * (n + 2)
+Değer     : 2.40404498352322263430...
+Hata Payı : 1.06e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 4/(6*G - 5) [Möbius Inverse]
+a_n       : 3*n^2 + 11*n + 9
+b_n       : -2 * n^2 * (n + 2)^2
+Değer     : 8.06787397389715999735...
+Hata Payı : 2.20e-52
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 4/(2*G - 1) [Möbius Inverse]
+a_n       : 6*n^2 + 14*n + 6
+b_n       : -8 * n^3 * (n + 2)
+Değer     : 4.80808996704644526861...
+Hata Payı : 2.13e-49
+Adım      : 150 iterasyon
+
+[BULDUM!]
+Hedef     : 6/(2*G - 1) [Möbius Inverse]
+a_n       : 9*n^2 + 21*n + 9
+b_n       : -18 * n^3 * (n + 2)
+Değer     : 7.21213495056966790291...
+Hata Payı : 3.20e-49
+Adım      : 150 iterasyon
+
